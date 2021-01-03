@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Cozinhando em Casa</string>
+    <string name="title_activity_main">Cozinhando em Casa</string>
+    <string name="package_name">com.inforizz.cozinhandoemcasa</string>
+    <string name="custom_url_scheme">com.inforizz.cozinhandoemcasa</string>
+</resources>
